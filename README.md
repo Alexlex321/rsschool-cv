@@ -1,1 +1,1 @@
-init: start test
+# rsschool-cv
