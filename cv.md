@@ -4,3 +4,6 @@
 *Who am I?* Not a programmer, I am a project manager. It is necessary to master the programming language for professional growth.
 *Strengths:* hardworking, leader and team player at the same time, results-oriented, stress-resistant
 *Experience:* implementation of SAP IT projects in large companies
+****
+*Образование:* экономическое
+*English level:* beginner
